@@ -1,0 +1,133 @@
+/*images*/
+
+.pokemon {
+    width: 90px;
+    margin-top: 60px;
+    margin-left: -40px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+.pokemon2 {
+    height: 90px;
+    margin-top: 60px;
+    margin-left: -40px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+.pokemon3 {
+    width: 95px;
+    margin-top: 50px;
+    margin-left: -30px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+.fleche {
+    width: 20px;
+}
+
+.reg {
+    background-color: #757DD9;
+    width: 30px;
+    height: 30px;
+    margin-bottom: 20px;
+    margin-left: 10Px;
+}
+
+.reglage {
+    width: 25px;
+    margin-left: 2.5px;
+    margin-top: 2.5px;
+}
+
+.page {
+    width: 200px;
+    margin-bottom : -20px;
+}
+
+.arrondi {
+    height: 25px;
+    border: solid 0 white;
+    border-radius: 20px 20px 0 0;
+}
+
+.fin {
+    height: 5px;
+    margin-top: 10px;
+}
+
+/*conteneur de pokemon 
+qui bouge selon la taille de l'image ><*/
+
+.poke {
+    width: 175px;
+    height: 150px;
+}
+
+/*type pokemon*/
+
+.type {
+    width: 60px;
+}
+
+.type2 {
+    width: 65px;
+}
+
+.vert {
+    background-color: #65DFC6;
+}
+
+.rouge {
+    background-color: #FF7E7C;
+}
+
+.bleu {
+    background-color: #95CFFF;
+}
+
+.jaune {
+    background-color: #FFE282;
+}
+
+/*couleurs background*/
+
+.green {
+    background-color: #57D3B8;
+}
+
+.red {
+    background-color: #FD6666;
+}
+
+.blue {
+    background-color: #7BBDFE;
+}
+
+.yellow {
+    background-color: #FFD56E;
+}
+
+/*titres*/
+
+h1 {
+    font-weight: bold;
+}
+
+h3 {
+    margin-top: 20px;
+}
+
+/*retrait visuel lien moche*/
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
